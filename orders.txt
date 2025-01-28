@@ -1,0 +1,6 @@
+Pizza - $10
+Pasta - $8
+-----
+Pasta - $8
+Salad - $6
+-----
