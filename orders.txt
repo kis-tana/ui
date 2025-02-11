@@ -4,3 +4,21 @@ Pasta - $8
 Pasta - $8
 Salad - $6
 -----
+Burger - $5
+Burger - $5
+-----
+Pizza - $10
+Burger - $5
+Pasta - $8
+-----
+Pizza - $10
+-----
+Pizza - $10
+Pasta - $8
+-----
+Pizza - $10
+Pasta - $8
+Burger - $5
+-----
+Pizza - $10
+-----
